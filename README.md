@@ -22,6 +22,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/NikhilNexus790/Leetcode/tree/master/0070-climbing-stairs) |
 | [0416-partition-equal-subset-sum](https://github.com/NikhilNexus790/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/NikhilNexus790/Leetcode/tree/master/0494-target-sum) |
 ## Knapsack Problem
@@ -38,4 +39,12 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/NikhilNexus790/Leetcode/tree/master/0494-target-sum) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/NikhilNexus790/Leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/NikhilNexus790/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
