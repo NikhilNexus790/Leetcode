@@ -20,6 +20,7 @@
 | [0213-house-robber-ii](https://github.com/NikhilNexus790/Leetcode/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/NikhilNexus790/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/NikhilNexus790/Leetcode/tree/master/0494-target-sum) |
+| [1463-cherry-pickup-ii](https://github.com/NikhilNexus790/Leetcode/tree/master/1463-cherry-pickup-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | [0213-house-robber-ii](https://github.com/NikhilNexus790/Leetcode/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/NikhilNexus790/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/NikhilNexus790/Leetcode/tree/master/0494-target-sum) |
+| [1463-cherry-pickup-ii](https://github.com/NikhilNexus790/Leetcode/tree/master/1463-cherry-pickup-ii) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -68,4 +70,5 @@
 | ------- |
 | [0063-unique-paths-ii](https://github.com/NikhilNexus790/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/NikhilNexus790/Leetcode/tree/master/0064-minimum-path-sum) |
+| [1463-cherry-pickup-ii](https://github.com/NikhilNexus790/Leetcode/tree/master/1463-cherry-pickup-ii) |
 <!---LeetCode Topics End-->
