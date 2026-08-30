@@ -22,6 +22,7 @@
 | [0494-target-sum](https://github.com/NikhilNexus790/Leetcode/tree/master/0494-target-sum) |
 | [0741-cherry-pickup](https://github.com/NikhilNexus790/Leetcode/tree/master/0741-cherry-pickup) |
 | [1463-cherry-pickup-ii](https://github.com/NikhilNexus790/Leetcode/tree/master/1463-cherry-pickup-ii) |
+| [1755-closest-subsequence-sum](https://github.com/NikhilNexus790/Leetcode/tree/master/1755-closest-subsequence-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | [0494-target-sum](https://github.com/NikhilNexus790/Leetcode/tree/master/0494-target-sum) |
 | [0741-cherry-pickup](https://github.com/NikhilNexus790/Leetcode/tree/master/0741-cherry-pickup) |
 | [1463-cherry-pickup-ii](https://github.com/NikhilNexus790/Leetcode/tree/master/1463-cherry-pickup-ii) |
+| [1755-closest-subsequence-sum](https://github.com/NikhilNexus790/Leetcode/tree/master/1755-closest-subsequence-sum) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -74,4 +76,24 @@
 | [0064-minimum-path-sum](https://github.com/NikhilNexus790/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0741-cherry-pickup](https://github.com/NikhilNexus790/Leetcode/tree/master/0741-cherry-pickup) |
 | [1463-cherry-pickup-ii](https://github.com/NikhilNexus790/Leetcode/tree/master/1463-cherry-pickup-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [1755-closest-subsequence-sum](https://github.com/NikhilNexus790/Leetcode/tree/master/1755-closest-subsequence-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1755-closest-subsequence-sum](https://github.com/NikhilNexus790/Leetcode/tree/master/1755-closest-subsequence-sum) |
+## Meet in the Middle
+|  |
+| ------- |
+| [1755-closest-subsequence-sum](https://github.com/NikhilNexus790/Leetcode/tree/master/1755-closest-subsequence-sum) |
+## Sorting
+|  |
+| ------- |
+| [1755-closest-subsequence-sum](https://github.com/NikhilNexus790/Leetcode/tree/master/1755-closest-subsequence-sum) |
+## Bitmask
+|  |
+| ------- |
+| [1755-closest-subsequence-sum](https://github.com/NikhilNexus790/Leetcode/tree/master/1755-closest-subsequence-sum) |
 <!---LeetCode Topics End-->
