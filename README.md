@@ -12,6 +12,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/NikhilNexus790/Leetcode/tree/master/0027-remove-element) |
 | [0063-unique-paths-ii](https://github.com/NikhilNexus790/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/NikhilNexus790/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/NikhilNexus790/Leetcode/tree/master/0120-triangle) |
@@ -79,6 +80,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/NikhilNexus790/Leetcode/tree/master/0027-remove-element) |
 | [1755-closest-subsequence-sum](https://github.com/NikhilNexus790/Leetcode/tree/master/1755-closest-subsequence-sum) |
 ## Bit Manipulation
 |  |
