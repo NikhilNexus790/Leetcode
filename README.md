@@ -41,6 +41,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/NikhilNexus790/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/NikhilNexus790/Leetcode/tree/master/0494-target-sum) |
 | [0741-cherry-pickup](https://github.com/NikhilNexus790/Leetcode/tree/master/0741-cherry-pickup) |
+| [1143-longest-common-subsequence](https://github.com/NikhilNexus790/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1463-cherry-pickup-ii](https://github.com/NikhilNexus790/Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1755-closest-subsequence-sum](https://github.com/NikhilNexus790/Leetcode/tree/master/1755-closest-subsequence-sum) |
 ## Knapsack Problem
@@ -98,4 +99,12 @@
 |  |
 | ------- |
 | [1755-closest-subsequence-sum](https://github.com/NikhilNexus790/Leetcode/tree/master/1755-closest-subsequence-sum) |
+## String
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/NikhilNexus790/Leetcode/tree/master/1143-longest-common-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/NikhilNexus790/Leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
