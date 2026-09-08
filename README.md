@@ -22,6 +22,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/NikhilNexus790/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/NikhilNexus790/Leetcode/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/NikhilNexus790/Leetcode/tree/master/0494-target-sum) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/NikhilNexus790/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0741-cherry-pickup](https://github.com/NikhilNexus790/Leetcode/tree/master/0741-cherry-pickup) |
 | [1463-cherry-pickup-ii](https://github.com/NikhilNexus790/Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1755-closest-subsequence-sum](https://github.com/NikhilNexus790/Leetcode/tree/master/1755-closest-subsequence-sum) |
@@ -30,6 +31,7 @@
 | ------- |
 | [0135-candy](https://github.com/NikhilNexus790/Leetcode/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/NikhilNexus790/Leetcode/tree/master/0455-assign-cookies) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/NikhilNexus790/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -85,6 +87,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/NikhilNexus790/Leetcode/tree/master/0027-remove-element) |
 | [0455-assign-cookies](https://github.com/NikhilNexus790/Leetcode/tree/master/0455-assign-cookies) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/NikhilNexus790/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1755-closest-subsequence-sum](https://github.com/NikhilNexus790/Leetcode/tree/master/1755-closest-subsequence-sum) |
 ## Bit Manipulation
 |  |
@@ -98,6 +101,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/NikhilNexus790/Leetcode/tree/master/0455-assign-cookies) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/NikhilNexus790/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1755-closest-subsequence-sum](https://github.com/NikhilNexus790/Leetcode/tree/master/1755-closest-subsequence-sum) |
 ## Bitmask
 |  |
@@ -115,4 +119,12 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/NikhilNexus790/Leetcode/tree/master/0455-assign-cookies) |
+## Stack
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/NikhilNexus790/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/NikhilNexus790/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 <!---LeetCode Topics End-->
