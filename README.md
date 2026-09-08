@@ -19,6 +19,7 @@
 | [0135-candy](https://github.com/NikhilNexus790/Leetcode/tree/master/0135-candy) |
 | [0198-house-robber](https://github.com/NikhilNexus790/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/NikhilNexus790/Leetcode/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/NikhilNexus790/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/NikhilNexus790/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/NikhilNexus790/Leetcode/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/NikhilNexus790/Leetcode/tree/master/0494-target-sum) |
@@ -42,6 +43,7 @@
 | [0120-triangle](https://github.com/NikhilNexus790/Leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/NikhilNexus790/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/NikhilNexus790/Leetcode/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/NikhilNexus790/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/NikhilNexus790/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/NikhilNexus790/Leetcode/tree/master/0494-target-sum) |
 | [0741-cherry-pickup](https://github.com/NikhilNexus790/Leetcode/tree/master/0741-cherry-pickup) |
@@ -51,6 +53,7 @@
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/NikhilNexus790/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/NikhilNexus790/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/NikhilNexus790/Leetcode/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
@@ -127,4 +130,12 @@
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/NikhilNexus790/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/NikhilNexus790/Leetcode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/NikhilNexus790/Leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
