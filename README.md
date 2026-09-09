@@ -41,6 +41,7 @@
 | [0063-unique-paths-ii](https://github.com/NikhilNexus790/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/NikhilNexus790/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/NikhilNexus790/Leetcode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/NikhilNexus790/Leetcode/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/NikhilNexus790/Leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/NikhilNexus790/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/NikhilNexus790/Leetcode/tree/master/0213-house-robber-ii) |
@@ -120,6 +121,7 @@
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/NikhilNexus790/Leetcode/tree/master/0072-edit-distance) |
 | [0516-longest-palindromic-subsequence](https://github.com/NikhilNexus790/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/NikhilNexus790/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/NikhilNexus790/Leetcode/tree/master/1092-shortest-common-supersequence) |
