@@ -51,6 +51,7 @@
 | [0518-coin-change-ii](https://github.com/NikhilNexus790/Leetcode/tree/master/0518-coin-change-ii) |
 | [0741-cherry-pickup](https://github.com/NikhilNexus790/Leetcode/tree/master/0741-cherry-pickup) |
 | [1143-longest-common-subsequence](https://github.com/NikhilNexus790/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/NikhilNexus790/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1463-cherry-pickup-ii](https://github.com/NikhilNexus790/Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1755-closest-subsequence-sum](https://github.com/NikhilNexus790/Leetcode/tree/master/1755-closest-subsequence-sum) |
 ## Knapsack Problem
@@ -119,6 +120,7 @@
 | ------- |
 | [0516-longest-palindromic-subsequence](https://github.com/NikhilNexus790/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/NikhilNexus790/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/NikhilNexus790/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Longest Common Subsequence
 |  |
 | ------- |
