@@ -29,6 +29,7 @@
 | [0494-target-sum](https://github.com/NikhilNexus790/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/NikhilNexus790/Leetcode/tree/master/0518-coin-change-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/NikhilNexus790/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/NikhilNexus790/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0741-cherry-pickup](https://github.com/NikhilNexus790/Leetcode/tree/master/0741-cherry-pickup) |
 | [1463-cherry-pickup-ii](https://github.com/NikhilNexus790/Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1755-closest-subsequence-sum](https://github.com/NikhilNexus790/Leetcode/tree/master/1755-closest-subsequence-sum) |
@@ -39,6 +40,7 @@
 | [0135-candy](https://github.com/NikhilNexus790/Leetcode/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/NikhilNexus790/Leetcode/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/NikhilNexus790/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/NikhilNexus790/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -60,6 +62,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/NikhilNexus790/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/NikhilNexus790/Leetcode/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/NikhilNexus790/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/NikhilNexus790/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0741-cherry-pickup](https://github.com/NikhilNexus790/Leetcode/tree/master/0741-cherry-pickup) |
 | [1092-shortest-common-supersequence](https://github.com/NikhilNexus790/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/NikhilNexus790/Leetcode/tree/master/1143-longest-common-subsequence) |
