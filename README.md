@@ -33,6 +33,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/NikhilNexus790/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0741-cherry-pickup](https://github.com/NikhilNexus790/Leetcode/tree/master/0741-cherry-pickup) |
 | [1463-cherry-pickup-ii](https://github.com/NikhilNexus790/Leetcode/tree/master/1463-cherry-pickup-ii) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/NikhilNexus790/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1755-closest-subsequence-sum](https://github.com/NikhilNexus790/Leetcode/tree/master/1755-closest-subsequence-sum) |
 ## Greedy
 |  |
@@ -69,6 +70,7 @@
 | [1143-longest-common-subsequence](https://github.com/NikhilNexus790/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/NikhilNexus790/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1463-cherry-pickup-ii](https://github.com/NikhilNexus790/Leetcode/tree/master/1463-cherry-pickup-ii) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/NikhilNexus790/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1755-closest-subsequence-sum](https://github.com/NikhilNexus790/Leetcode/tree/master/1755-closest-subsequence-sum) |
 ## Knapsack Problem
 |  |
@@ -126,6 +128,7 @@
 | ------- |
 | [0455-assign-cookies](https://github.com/NikhilNexus790/Leetcode/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/NikhilNexus790/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/NikhilNexus790/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1755-closest-subsequence-sum](https://github.com/NikhilNexus790/Leetcode/tree/master/1755-closest-subsequence-sum) |
 ## Bitmask
 |  |
