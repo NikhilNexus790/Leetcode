@@ -144,6 +144,7 @@
 | [1106-parsing-a-boolean-expression](https://github.com/NikhilNexus790/Leetcode/tree/master/1106-parsing-a-boolean-expression) |
 | [1143-longest-common-subsequence](https://github.com/NikhilNexus790/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/NikhilNexus790/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [3498-reverse-degree-of-a-string](https://github.com/NikhilNexus790/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Longest Common Subsequence
 |  |
 | ------- |
@@ -172,4 +173,8 @@
 | ------- |
 | [0322-coin-change](https://github.com/NikhilNexus790/Leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/NikhilNexus790/Leetcode/tree/master/0518-coin-change-ii) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/NikhilNexus790/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
