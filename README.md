@@ -35,6 +35,7 @@
 | [1463-cherry-pickup-ii](https://github.com/NikhilNexus790/Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/NikhilNexus790/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1755-closest-subsequence-sum](https://github.com/NikhilNexus790/Leetcode/tree/master/1755-closest-subsequence-sum) |
+| [3524-find-x-value-of-array-i](https://github.com/NikhilNexus790/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 ## Greedy
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | [1463-cherry-pickup-ii](https://github.com/NikhilNexus790/Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/NikhilNexus790/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1755-closest-subsequence-sum](https://github.com/NikhilNexus790/Leetcode/tree/master/1755-closest-subsequence-sum) |
+| [3524-find-x-value-of-array-i](https://github.com/NikhilNexus790/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -93,6 +95,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/NikhilNexus790/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/NikhilNexus790/Leetcode/tree/master/0070-climbing-stairs) |
+| [3524-find-x-value-of-array-i](https://github.com/NikhilNexus790/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 ## Memoization
 |  |
 | ------- |
