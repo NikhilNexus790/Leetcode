@@ -35,6 +35,7 @@
 | [1463-cherry-pickup-ii](https://github.com/NikhilNexus790/Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/NikhilNexus790/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1755-closest-subsequence-sum](https://github.com/NikhilNexus790/Leetcode/tree/master/1755-closest-subsequence-sum) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/NikhilNexus790/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3524-find-x-value-of-array-i](https://github.com/NikhilNexus790/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 ## Greedy
 |  |
@@ -180,4 +181,12 @@
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/NikhilNexus790/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/NikhilNexus790/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/NikhilNexus790/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
