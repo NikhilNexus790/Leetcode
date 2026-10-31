@@ -117,6 +117,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/NikhilNexus790/Leetcode/tree/master/0027-remove-element) |
 | [0455-assign-cookies](https://github.com/NikhilNexus790/Leetcode/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/NikhilNexus790/Leetcode/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/NikhilNexus790/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1755-closest-subsequence-sum](https://github.com/NikhilNexus790/Leetcode/tree/master/1755-closest-subsequence-sum) |
 ## Bit Manipulation
@@ -145,6 +146,7 @@
 | [0072-edit-distance](https://github.com/NikhilNexus790/Leetcode/tree/master/0072-edit-distance) |
 | [0424-longest-repeating-character-replacement](https://github.com/NikhilNexus790/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/NikhilNexus790/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0567-permutation-in-string](https://github.com/NikhilNexus790/Leetcode/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/NikhilNexus790/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/NikhilNexus790/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1106-parsing-a-boolean-expression](https://github.com/NikhilNexus790/Leetcode/tree/master/1106-parsing-a-boolean-expression) |
@@ -188,6 +190,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NikhilNexus790/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/NikhilNexus790/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/NikhilNexus790/Leetcode/tree/master/0567-permutation-in-string) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/NikhilNexus790/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Enumeration
 |  |
@@ -198,4 +201,5 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NikhilNexus790/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/NikhilNexus790/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/NikhilNexus790/Leetcode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
