@@ -153,6 +153,7 @@
 | [1106-parsing-a-boolean-expression](https://github.com/NikhilNexus790/Leetcode/tree/master/1106-parsing-a-boolean-expression) |
 | [1143-longest-common-subsequence](https://github.com/NikhilNexus790/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/NikhilNexus790/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/NikhilNexus790/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3498-reverse-degree-of-a-string](https://github.com/NikhilNexus790/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Longest Common Subsequence
 |  |
@@ -192,6 +193,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/NikhilNexus790/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/NikhilNexus790/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/NikhilNexus790/Leetcode/tree/master/0567-permutation-in-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/NikhilNexus790/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/NikhilNexus790/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Enumeration
 |  |
@@ -203,6 +205,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/NikhilNexus790/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/NikhilNexus790/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/NikhilNexus790/Leetcode/tree/master/0567-permutation-in-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/NikhilNexus790/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/NikhilNexus790/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
