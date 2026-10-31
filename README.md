@@ -34,6 +34,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/NikhilNexus790/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0741-cherry-pickup](https://github.com/NikhilNexus790/Leetcode/tree/master/0741-cherry-pickup) |
 | [0930-binary-subarrays-with-sum](https://github.com/NikhilNexus790/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/NikhilNexus790/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/NikhilNexus790/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/NikhilNexus790/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1463-cherry-pickup-ii](https://github.com/NikhilNexus790/Leetcode/tree/master/1463-cherry-pickup-ii) |
@@ -200,6 +201,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/NikhilNexus790/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/NikhilNexus790/Leetcode/tree/master/0567-permutation-in-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/NikhilNexus790/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/NikhilNexus790/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/NikhilNexus790/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/NikhilNexus790/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/NikhilNexus790/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -216,6 +218,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/NikhilNexus790/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/NikhilNexus790/Leetcode/tree/master/0567-permutation-in-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/NikhilNexus790/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/NikhilNexus790/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/NikhilNexus790/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/NikhilNexus790/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/NikhilNexus790/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -241,4 +244,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/NikhilNexus790/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Counting
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/NikhilNexus790/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
